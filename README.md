@@ -23,6 +23,7 @@ this can identify
 [II]. Data protection system and ethics evaluation.
 
 Advantages
+
 [I]. Increase transparency and in basic text communication.
 
 [II]. Reduce the risk of fraud although only 41% accuracy rate and overcome spam.
