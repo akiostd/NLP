@@ -11,7 +11,7 @@ punkskdpunk
 allows the software engine to recognize and understand (logic) or (not)
 Usually scam behavior will be “not” logically
 
-This aims to develop a system that is expected to increase accuracy and especially for a community or individual.
+This aims to develop a system that is expected to increase accuracy.
 
 41% can be by asking | answering. 
 
